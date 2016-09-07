@@ -1,0 +1,7 @@
+# 忽略文件夹
+.idea/
+.vscode/
+
+#忽略文件
+.project
+.DS_Store
